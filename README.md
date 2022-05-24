@@ -20,6 +20,8 @@ This project is part of the QA Tech Challenge where we have to implement a REST 
 
 To run tests in Postman, you can use Postman Collection Runner.
 
+![QA Automation Challenge Backend](https://user-images.githubusercontent.com/59137643/170082285-e0bea578-8d69-4f58-a17e-c097884ab941.png)
+
 ## API Reference
 
 #### Get available pets
