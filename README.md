@@ -24,9 +24,9 @@ To run tests in Postman, you can use Postman Collection Runner.
 
 #### Get available pets
 
-```http
+``http
   GET /pet/findByStatus{status}
-```
+``
 
 | Parameter | Type     |
 | :-------- | :------- | 
@@ -34,15 +34,15 @@ To run tests in Postman, you can use Postman Collection Runner.
 
 #### Add new pet
 
-```http
+``http
   POST /pet
-```
+``
 
 #### Update pet status
 
-```http
+``http
   GET /pet/${id}
-```
+``
 
 | Parameter | Type     | 
 | :-------- | :------- | 
@@ -51,9 +51,9 @@ To run tests in Postman, you can use Postman Collection Runner.
 
 #### Delete pet by Id
 
-```http
+``http
   DELETE /pet/${petId}
-```
+``
 
 | Parameter | Type     |
 | :-------- | :------- |
