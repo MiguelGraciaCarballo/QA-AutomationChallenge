@@ -4,9 +4,12 @@ This project is part of the QA Tech Challenge where we have to implement a REST 
 
 ## Automation Steps
 
-• Get "available" pets. Assert expected result
+• Get "available" pets. Assert expected result.
+
 • Post a new available pet to the store. Assert new pet added.
+
 • Update this pet status to "sold". Assert status updated.
+
 • Delete this pet. Assert deletion.
 
 ## Tech Stack
